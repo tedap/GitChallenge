@@ -1,7 +1,10 @@
 # Introduction
 Air quality is a measure of the amount of pollutants in the air. Air pollution is a major environmental issue that affects the health of millions of people worldwide. In this document, we will discuss the causes and effects of air pollution and how it has changed over time.
 
-This README will explain more about how air quality has changed over time, what air pollution actually is and why it is an issue.
+This README will explain more about:
+- How air quality has changed over time
+- What air pollution actually is
+- Why air pollution is an issue.
 
 # Air Quality Over Time
 Air quality has changed significantly over the past few decades. The burning of fossil fuels, industrial processes, and transportation are some of the main sources of air pollution. The increase in air pollution has led to a rise in respiratory diseases, heart disease, and other health problems. The following table shows the changes in air quality over the past few decades:
